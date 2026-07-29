@@ -1,8 +1,3 @@
-  
-## Video
-
-https://youtu.be/EQdsNJjQBuQ
-
 # SafetyPool Code and Results Package
 
 This artifact accompanies the paper **“SafetyPool for Collision-Aware Deep
